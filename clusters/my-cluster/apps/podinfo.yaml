@@ -1,7 +1,7 @@
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
 metadata:
-  name: app-team-base
+  name: app-team-base1
   namespace: flux-system
 spec:
   interval: 60s
